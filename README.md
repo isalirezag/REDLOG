@@ -23,7 +23,7 @@ Here we propose a training-free low cost RRIQA method that requires a very small
 
 <p align="center"><font size="4">Some example results of distorted image 
 		along with its locally weighted gradient maps (e.g. <a href="#Child">
-		Child</a> and <a href="#Flower">Flower</a>)</font></p>
+		Child</a>)</font></p>
 		
         
         
@@ -41,13 +41,3 @@ distortions along with their locally weighted gradient maps:</font></p>
 <a name="Child">Child</a>:</font></p>
 
 ![index 4](https://cloud.githubusercontent.com/assets/12434910/26183306/dcbc18fc-3b32-11e7-9755-6e9eb53ccd96.jpg)
-
-<p align="center">&nbsp;</p>
-<p align="center"><font size="6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a name="Flower">Flower</a>:</font></p>
-
-![index 5](https://cloud.githubusercontent.com/assets/12434910/26183332/0219303a-3b33-11e7-9674-e5a2f5fb76b7.jpg)
-
-<p align="center">&nbsp;</p>
-
-
